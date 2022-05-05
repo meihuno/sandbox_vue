@@ -1,0 +1,1 @@
+Sample Sentence <font class="highlight1">サンプル</font>。なのだー。 
